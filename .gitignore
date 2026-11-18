@@ -1,0 +1,9 @@
+# Claude Code — лише локально
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+PLAN.md
+
+# macOS
+.DS_Store
