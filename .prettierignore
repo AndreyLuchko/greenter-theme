@@ -1,0 +1,5 @@
+# JSON, які генерує й комітить Shopify (редактор теми, переклади) — не форматуємо
+config/
+templates/
+locales/
+sections/*.json
