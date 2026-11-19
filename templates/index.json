@@ -292,10 +292,66 @@
         "padding-block-start": 48,
         "padding-block-end": 48
       }
+    },
+    "eco_engagements_EUkYfD": {
+      "type": "eco-engagements",
+      "blocks": {
+        "engagement_NxVCXb": {
+          "type": "engagement",
+          "settings": {
+            "icon": "leaf",
+            "heading": "Zéro plastique",
+            "text": "<p>Des emballages compostables, jamais de plastique.</p>",
+            "link": ""
+          }
+        },
+        "engagement_c8GbxL": {
+          "type": "engagement",
+          "settings": {
+            "icon": "map_pin",
+            "heading": "Fabriqué en France",
+            "text": "<p>Conçus par des artisans à moins de 500 km.</p>",
+            "link": ""
+          }
+        },
+        "engagement_yzwERy": {
+          "type": "engagement",
+          "settings": {
+            "icon": "plant",
+            "heading": "100 % vegan",
+            "text": "<p>Aucun ingrédient d’origine animale.</p>",
+            "link": ""
+          }
+        },
+        "engagement_wgAAgB": {
+          "type": "engagement",
+          "settings": {
+            "icon": "recycle",
+            "heading": "Certifié bio",
+            "text": "<p>Des matières premières issues de l’agriculture biologique.</p>",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "engagement_NxVCXb",
+        "engagement_c8GbxL",
+        "engagement_yzwERy",
+        "engagement_wgAAgB"
+      ],
+      "name": "t:names.eco_engagements",
+      "settings": {
+        "heading": "Nos engagements",
+        "section_width": "page-width",
+        "background_color": "",
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      }
     }
   },
   "order": [
     "hero_jVaWmY",
-    "product_list_fa6P9H"
+    "product_list_fa6P9H",
+    "eco_engagements_EUkYfD"
   ]
 }

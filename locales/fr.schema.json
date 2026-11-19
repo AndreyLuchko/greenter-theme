@@ -9,6 +9,8 @@
  */
 {
   "names": {
+    "eco_engagements": "Nos engagements",
+    "eco_engagement": "Engagement",
     "404": "404",
     "custom_section": "Section personnalisée",
     "icon": "Icône",
@@ -998,6 +1000,10 @@
     "page_text_color_contrast_info": "Les sections avec une couleur d’arrière-plan personnalisée utiliseront cette couleur du texte uniquement si le contraste des couleurs est suffisant."
   },
   "html_defaults": {
+    "eco_zero_plastic_text": "<p>Des emballages compostables, jamais de plastique.</p>",
+    "eco_made_in_france_text": "<p>Conçus par des artisans à moins de 500 km.</p>",
+    "eco_vegan_text": "<p>Aucun ingrédient d’origine animale.</p>",
+    "eco_bio_text": "<p>Des matières premières issues de l’agriculture biologique.</p>",
     "share_information_about_your": "<p>Partagez des informations sur votre marque avec vos clients. Décrivez un produit, faites des annonces ou accueillez les clients dans votre boutique.</p>",
     "bestseller_h2": "<h2>Meilleures ventes</h2>",
     "bestseller_h3": "<h3>Meilleures ventes</h3>",
@@ -1055,6 +1061,11 @@
     "featured_collection_h3": "<h3>Collection en vedette</h3>"
   },
   "text_defaults": {
+    "eco_engagements_heading": "Nos engagements",
+    "eco_zero_plastic_heading": "Zéro plastique",
+    "eco_made_in_france_heading": "Fabriqué en France",
+    "eco_vegan_heading": "100 % vegan",
+    "eco_bio_heading": "Certifié bio",
     "collapsible_row": "Rangée réductible",
     "button_label": "Acheter maintenant",
     "heading": "Titre",
@@ -1093,6 +1104,7 @@
     "disclosures": "Divulgations"
   },
   "info": {
+    "eco_image_replaces_icon": "Remplace l’icône si une image est choisie",
     "carousel_layout_on_mobile": "Le carrousel est toujours utilisé sur mobile",
     "video_alt_text": "Décrivez la vidéo pour les utilisateurs de technologies d’assistance",
     "video_autoplay": "Les vidéos seront mises en sourdine par défaut",

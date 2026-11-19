@@ -166,6 +166,10 @@
     "navigation": "Navigation"
   },
   "html_defaults": {
+    "eco_zero_plastic_text": "<p>Compostable packaging, never plastic.</p>",
+    "eco_made_in_france_text": "<p>Crafted by artisans less than 500 km away.</p>",
+    "eco_vegan_text": "<p>No animal-derived ingredients.</p>",
+    "eco_bio_text": "<p>Raw materials from organic farming.</p>",
     "join_our_email_list": "<h2>Join our email list</h2>",
     "get_exclusive_deals_and_early_access_to_new_products": "<p>Get exclusive deals and early access to new products.</p>",
     "artistry_in_action": "<p>Artistry in action </p>",
@@ -223,6 +227,7 @@
     "work_quickly_to_ship": "<p>We will work quickly to ship your order as soon as possible. Once your order has shipped, you will receive an email with further information. Delivery times vary depending on your location.</p>"
   },
   "info": {
+    "eco_image_replaces_icon": "Replaces the icon when an image is set",
     "actions_display_style": "Icons are always used on mobile",
     "applies_on_image_only": "Applies to images only",
     "aspect_ratio_adjusted": "Adjusted in some layouts",
@@ -254,6 +259,8 @@
     "show_physical_stores_help": "Also list locations marked as a physical storefront that have the product in stock, even when they don't offer pickup."
   },
   "names": {
+    "eco_engagements": "Our commitments",
+    "eco_engagement": "Commitment",
     "column": "Column",
     "product_title": "Product title",
     "custom_liquid": "Custom Liquid",
@@ -1205,6 +1212,11 @@
     "bottom_row_text": "Bottom row text"
   },
   "text_defaults": {
+    "eco_engagements_heading": "Our commitments",
+    "eco_zero_plastic_heading": "Plastic-free",
+    "eco_made_in_france_heading": "Made in France",
+    "eco_vegan_heading": "100% vegan",
+    "eco_bio_heading": "Certified organic",
     "accordion_heading": "Accordion heading",
     "are_purchases_final_sale": "Are any purchases final sale?",
     "be_bold": "Be bold.",

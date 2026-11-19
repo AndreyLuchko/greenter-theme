@@ -4,6 +4,11 @@ CLAUDE.md
 CLAUDE.local.md
 .mcp.json
 PLAN.md
+.superpowers/
 
 # macOS
 .DS_Store
+
+# Дизайн-документи, плани, макети brainstorming — лише локально
+docs/plans/
+.superpowers/
