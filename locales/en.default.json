@@ -13,6 +13,9 @@
       "button_count": "{{ label }} ({{ count }})",
       "empty": "Select a collection in the section settings",
       "products_heading": "Products from the {{ collection }} collection"
+    },
+    "eco_univers": {
+      "empty": "Select a collection"
     }
   },
   "accessibility": {

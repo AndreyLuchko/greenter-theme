@@ -33,6 +33,9 @@
       "button_count": "{{ label }} ({{ count }})",
       "empty": "Choisissez une collection dans les réglages de la section",
       "products_heading": "Produits de la collection {{ collection }}"
+    },
+    "eco_univers": {
+      "empty": "Choisissez une collection"
     }
   },
   "accessibility": {

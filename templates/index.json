@@ -383,12 +383,70 @@
         "padding-block-start": 48,
         "padding-block-end": 48
       }
+    },
+    "eco_univers_PwEHGw": {
+      "type": "eco-univers",
+      "blocks": {
+        "univers_jdpYGH": {
+          "type": "univers",
+          "settings": {
+            "collection": "salle-de-bain"
+          }
+        },
+        "univers_zRUdQU": {
+          "type": "univers",
+          "settings": {
+            "collection": "cuisine"
+          }
+        },
+        "univers_RMbXpx": {
+          "type": "univers",
+          "settings": {
+            "collection": "maison"
+          }
+        },
+        "univers_4aghjp": {
+          "type": "univers",
+          "settings": {
+            "collection": "coffrets"
+          }
+        },
+        "univers_wefeRx": {
+          "type": "univers",
+          "settings": {
+            "collection": "entretien"
+          }
+        },
+        "univers_nfFEJp": {
+          "type": "univers",
+          "settings": {
+            "collection": "nomade"
+          }
+        }
+      },
+      "block_order": [
+        "univers_jdpYGH",
+        "univers_zRUdQU",
+        "univers_RMbXpx",
+        "univers_4aghjp",
+        "univers_wefeRx",
+        "univers_nfFEJp"
+      ],
+      "name": "t:names.eco_univers",
+      "settings": {
+        "heading": "Nos univers",
+        "section_width": "page-width",
+        "background_color": "",
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      }
     }
   },
   "order": [
     "hero_jVaWmY",
     "product_list_fa6P9H",
     "eco_engagements_EUkYfD",
-    "eco_made_in_france_8pBqp6"
+    "eco_made_in_france_8pBqp6",
+    "eco_univers_PwEHGw"
   ]
 }
