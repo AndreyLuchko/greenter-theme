@@ -1,0 +1,6 @@
+extends: theme-check:recommended
+
+# The store only uses FR and EN. Custom section keys are added to en.default and fr only,
+# so completeness checks across Horizon's 80+ other locale files are disabled.
+MatchingTranslations:
+  enabled: false

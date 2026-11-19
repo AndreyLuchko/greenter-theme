@@ -170,6 +170,7 @@
     "eco_made_in_france_text": "<p>Crafted by artisans less than 500 km away.</p>",
     "eco_vegan_text": "<p>No animal-derived ingredients.</p>",
     "eco_bio_text": "<p>Raw materials from organic farming.</p>",
+    "eco_mif_text": "<p>Durable products, made close to home.</p>",
     "join_our_email_list": "<h2>Join our email list</h2>",
     "get_exclusive_deals_and_early_access_to_new_products": "<p>Get exclusive deals and early access to new products.</p>",
     "artistry_in_action": "<p>Artistry in action </p>",
@@ -261,6 +262,8 @@
   "names": {
     "eco_engagements": "Our commitments",
     "eco_engagement": "Commitment",
+    "eco_made_in_france": "Made in France banner",
+    "eco_badge": "Badge",
     "column": "Column",
     "product_title": "Product title",
     "custom_liquid": "Custom Liquid",
@@ -755,6 +758,7 @@
     "below_media": "Below media"
   },
   "settings": {
+    "eco_subheading": "Subheading",
     "accordion": "Accordion",
     "account": "Account",
     "actions_display_style": "Menu style",
@@ -1217,6 +1221,11 @@
     "eco_made_in_france_heading": "Made in France",
     "eco_vegan_heading": "100% vegan",
     "eco_bio_heading": "Certified organic",
+    "eco_mif_subheading": "Made in France",
+    "eco_mif_heading": "Our artisans' know-how",
+    "eco_mif_button": "Discover the collection",
+    "eco_badge_free_shipping": "Free shipping from €50",
+    "eco_badge_local_artisans": "Local artisans",
     "accordion_heading": "Accordion heading",
     "are_purchases_final_sale": "Are any purchases final sale?",
     "be_bold": "Be bold.",

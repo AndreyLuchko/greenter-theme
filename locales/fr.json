@@ -28,6 +28,13 @@
     },
     "slider_label": "Carrousel"
   },
+  "sections": {
+    "eco_made_in_france": {
+      "button_count": "{{ label }} ({{ count }})",
+      "empty": "Choisissez une collection dans les réglages de la section",
+      "products_heading": "Produits de la collection {{ collection }}"
+    }
+  },
   "accessibility": {
     "play_model": "Jouer le modèle 3D",
     "play_video": "Lire la vidéo",

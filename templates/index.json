@@ -347,11 +347,48 @@
         "padding-block-start": 48,
         "padding-block-end": 48
       }
+    },
+    "eco_made_in_france_8pBqp6": {
+      "type": "eco-made-in-france",
+      "blocks": {
+        "badge_hwWVHH": {
+          "type": "badge",
+          "settings": {
+            "icon": "truck",
+            "text": "Livraison offerte dès 50 €"
+          }
+        },
+        "badge_4AEM7C": {
+          "type": "badge",
+          "settings": {
+            "icon": "map_pin",
+            "text": "Artisans locaux"
+          }
+        }
+      },
+      "block_order": [
+        "badge_hwWVHH",
+        "badge_4AEM7C"
+      ],
+      "name": "t:names.eco_made_in_france",
+      "settings": {
+        "collection": "made-in-france",
+        "products_to_show": 4,
+        "subheading": "Fabriqué en France",
+        "heading": "Le savoir-faire de nos artisans",
+        "text": "<p>Des produits durables, fabriqués près de chez vous.</p>",
+        "button_label": "Découvrir la collection",
+        "section_width": "page-width",
+        "background_color": "",
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      }
     }
   },
   "order": [
     "hero_jVaWmY",
     "product_list_fa6P9H",
-    "eco_engagements_EUkYfD"
+    "eco_engagements_EUkYfD",
+    "eco_made_in_france_8pBqp6"
   ]
 }

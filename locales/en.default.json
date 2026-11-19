@@ -8,6 +8,13 @@
  * ------------------------------------------------------------
  */
 {
+  "sections": {
+    "eco_made_in_france": {
+      "button_count": "{{ label }} ({{ count }})",
+      "empty": "Select a collection in the section settings",
+      "products_heading": "Products from the {{ collection }} collection"
+    }
+  },
   "accessibility": {
     "account": "Account",
     "active_filters": "Active filters:",

@@ -11,6 +11,8 @@
   "names": {
     "eco_engagements": "Nos engagements",
     "eco_engagement": "Engagement",
+    "eco_made_in_france": "Bannière Fabriqué en France",
+    "eco_badge": "Badge",
     "404": "404",
     "custom_section": "Section personnalisée",
     "icon": "Icône",
@@ -173,6 +175,7 @@
     "disclosures": "Divulgations"
   },
   "settings": {
+    "eco_subheading": "Surtitre",
     "autoplay": "Lecture automatique",
     "background": "Arrière-plan",
     "border_radius": "Rayon de la bordure",
@@ -1004,6 +1007,7 @@
     "eco_made_in_france_text": "<p>Conçus par des artisans à moins de 500 km.</p>",
     "eco_vegan_text": "<p>Aucun ingrédient d’origine animale.</p>",
     "eco_bio_text": "<p>Des matières premières issues de l’agriculture biologique.</p>",
+    "eco_mif_text": "<p>Des produits durables, fabriqués près de chez vous.</p>",
     "share_information_about_your": "<p>Partagez des informations sur votre marque avec vos clients. Décrivez un produit, faites des annonces ou accueillez les clients dans votre boutique.</p>",
     "bestseller_h2": "<h2>Meilleures ventes</h2>",
     "bestseller_h3": "<h3>Meilleures ventes</h3>",
@@ -1066,6 +1070,11 @@
     "eco_made_in_france_heading": "Fabriqué en France",
     "eco_vegan_heading": "100 % vegan",
     "eco_bio_heading": "Certifié bio",
+    "eco_mif_subheading": "Fabriqué en France",
+    "eco_mif_heading": "Le savoir-faire de nos artisans",
+    "eco_mif_button": "Découvrir la collection",
+    "eco_badge_free_shipping": "Livraison offerte dès 50 €",
+    "eco_badge_local_artisans": "Artisans locaux",
     "collapsible_row": "Rangée réductible",
     "button_label": "Acheter maintenant",
     "heading": "Titre",
