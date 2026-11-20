@@ -65,6 +65,7 @@
           "blocks": {}
         }
       },
+      "name": "Panier",
       "settings": {
         "section_width": "page-width",
         "background_color": "{{ settings.color_palette.background }}",
