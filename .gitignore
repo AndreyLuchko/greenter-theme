@@ -12,3 +12,8 @@ PLAN.md
 # Дизайн-документи, плани, макети brainstorming — лише локально
 docs/plans/
 .superpowers/
+
+# Dependencies, env, Shopify CLI state
+node_modules/
+.env*
+.shopify/
