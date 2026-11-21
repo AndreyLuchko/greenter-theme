@@ -375,6 +375,7 @@
       "settings": {
         "collection": "made-in-france",
         "products_to_show": 4,
+        "image": "shopify://shop_images/greenter-made-in-france-artisane.jpg",
         "subheading": "Fabriqué en France",
         "heading": "Le savoir-faire de nos artisans",
         "text": "<p>Des produits durables, fabriqués près de chez vous.</p>",
