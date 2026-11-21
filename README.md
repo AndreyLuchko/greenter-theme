@@ -37,23 +37,23 @@ A demo Shopify store for an eco-friendly products brand targeting France. It cov
 
 ### Checkout scenarios
 
-| Scenario | Expected result |
+| Scenario | Result |
 |---|---|
-| France, cart < 50 € | Colissimo 4,90 € and Point relais 3,50 € offered |
-| France, cart ≥ 50 € | Free shipping offered |
-| Belgium, cart < 80 € | Europe proche rate 9,90 € |
-| Belgium, cart ≥ 80 € | Free shipping offered |
-| Test card `1` | Payment succeeds, order created |
-| Test card `2` | Payment declined, clear error message |
-| Test card `3` | Gateway error handled, no order created |
-| Fulfill + tracking number | Order fulfilled, shipping confirmation with tracking sent |
-| Refund + restock | Refund issued, inventory restored |
-| Checkout in English (`/en/`) | All labels, rates and products shown in English |
-| Mobile | Full flow works, no layout breaks, tap targets usable |
+| France, cart < 50 € | ✅ Colissimo 4,90 € and Point relais 3,50 € offered |
+| France, cart ≥ 50 € | ✅ Free shipping offered |
+| Belgium, cart < 80 € | ✅ Europe proche rate 9,90 € |
+| Belgium, cart ≥ 80 € | ✅ Free shipping offered |
+| Test card `1` | ✅ Payment succeeds, order created |
+| Test card `2` | ✅ Payment declined, cart preserved |
+| Test card `3` | ✅ Gateway error shown |
+| Fulfill + tracking number | ✅ Order fulfilled, shipping confirmation with tracking sent |
+| Refund + restock | ✅ Refund issued, inventory restored |
+| Checkout in English (`/en/`) | ✅ All labels, rates and products shown in English |
+| Mobile | ✅ Full checkout flow completed on mobile |
 
 ### Bugs found & fixed
 
-- A separate shipping rate for oversized products broke checkout shipping for mixed carts. Fixed by reworking the shipping profile setup.
+- A separate rate for oversized products blocked standard shipping for mixed carts. Fixed by removing that rate.
 - Shipping rate names were not translated in the English checkout.
 - The footer had no links to the legal pages.
 - English alt texts, URL handles and policies were missing.
@@ -76,6 +76,8 @@ assets/     CSS, JavaScript, icons and static images
 ## Local development
 
 Requires [Shopify CLI](https://shopify.dev/docs/api/shopify-cli).
+
+The theme is connected via the Shopify GitHub integration: pushes to `main` deploy to the live theme.
 
 ```bash
 # Local preview with hot reload (http://127.0.0.1:9292)
